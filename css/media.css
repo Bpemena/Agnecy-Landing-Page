@@ -1,0 +1,62 @@
+@media (min-width: 1601px) and (max-width: 1920px) {
+	#images img {
+		height: 350px;
+	}
+}
+
+@media only screen and (max-width: 1280px) {
+	#textInHeader div:first-child {
+		font-size: 48px;
+	}
+	#textInHeader div:last-child {
+		font-size: 14px;
+	}
+	#leftcolumn span:first-child {
+		font-size: 35px;
+	}
+	#leftcolumn span:last-of-type {
+		font-size: 14px;
+	}
+	#learnMore {
+		font-size: 14px;
+	}
+	.block .name {
+		font-size: 20px;
+	}
+	.block .text {
+		font-size: 14px;
+	}
+	#featureProducts div:first-child {
+		font-size: 35px;
+	}
+	#featureProducts div:nth-child(2) {
+		font-size: 14px;
+	}
+	#featureProducts .buttons {
+		font-size: 16px;
+	}
+	#ourTeamName {
+		font-size: 35px;
+	}
+	#ourTeamText {
+		font-size: 12px;
+	}
+	#humanName {
+		font-size: 26px;
+	}
+	.links {
+		font-size: 14px;
+	}
+	#ourTeamInfo {
+		font-size: 12px;
+	}
+	#subscribe span {
+		font-size: 35px;
+	}
+	#messageName {
+		font-size: 35px;
+	}
+	#messageText {
+		font-size: 12px;
+	}
+}
